@@ -1,0 +1,22 @@
+.card-title{
+ background: teal;
+ color: white;
+  padding: 10px;
+}
+.card-body{
+    border: solid;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+
+#input-1{
+    width: 100%;
+    
+}
+#input-2{
+    width: 100%
+}#input-3{
+    width: 100%
+}#input-4{
+    width: 100%
+}
